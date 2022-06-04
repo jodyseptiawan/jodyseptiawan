@@ -1,2 +1,2 @@
-- 👋   Hi, I’m @jodyseptiawan
+- 👋   Hi, I’m Mentor Full-Stack Developer at Dumbways Indonesia
 - 🌱   Enjoy your life
